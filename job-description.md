@@ -2,10 +2,10 @@
 
 ## 一、要求：熟悉 HTML / CSS / JS（或精通其中一项），并热爱生活
 
-项目中用 ES6、AngularJS、Node，也准备深入 Web Component / Shadow DOM ，Grunt、Bower 都在手边。不过技术是浮云，生活才是真正的追求。希望能找到一起玩，顺路把事情给做起来的人。我们相信热爱生活的技术人，技术不会差到哪里。而 学历、工龄、性别 、取向等在我们看来大多是个人的事情，一律不做要求。
+项目中用 ES6、AngularJS、Node，也准备深入 Web Components / Shadow DOM ，Grunt、Bower 都在手边。不过技术是浮云，生活才是真正的追求。希望能找到一起玩，顺路把事情给做起来的人。我们相信热爱生活的技术人，技术不会差到哪里。而 学历、工龄、性别 、取向等在我们看来大多是个人的事情，一律不做要求。
 
 **加分项：**
-- 熟练在 Mac OSX / Linux 上开发
+- 熟练在 Mac OS X / Linux 上开发
 - Github 有前端项目超过 100 star，或给大型项目贡献过代码
 - 乐于分享
 - 写技术博客（或微信公众号）2 年以前，或者 50 篇以前
@@ -20,7 +20,7 @@
 
 - 15K ~ 50K / 月，14 - 16 个月 （实习生 300/天）
 - 弹性工作，早上上班在 10:00 以后
-- 标配：HermanMiller Aeron Chair / Macbook Air / HHKB
+- 标配：Herman Miller Aeron Chair / Macbook Air / HHKB
 - 无限量零食、饮料
 
 ## 四、发展：
