@@ -2,14 +2,14 @@
 
 > 关于薪资、福利、发展、方向，请看 请看 [Job Description](job-description.md) 这个文档。
 
-### 一、时间 + 资料
+## 一、时间 + 资料
 
 - 时间：自选三天内独立完成，可使用任何辅助工具，代码最好不依赖框架/库
 - URL：http://ele.me/place/239e7ddb2164
 - 邮箱：jianfeng.lin@ele.me （结果发到这个邮箱）
 - 设备：IE 只需支持 8 或以上
 
-### 二、题
+## 二、题
 
 #### 1. 用所学的 HTML + CSS 重构上述 URL 页面
 
