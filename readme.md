@@ -5,7 +5,7 @@
 ## 一、时间 + 资料
 
 - 时间：自选三天内独立完成，可使用任何辅助工具，代码最好不依赖框架/库
-- URL：http://ele.me/place/4edec1e1f63e
+- URL：[http://ele.me/place/wtw27pnxv422](http://ele.me/place/wtw27pnxv422)
 - 邮箱：sofish@ele.me （结果发到这个邮箱）
 - 设备：IE 只需支持 8 或以上
 
