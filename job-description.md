@@ -25,13 +25,15 @@
 
 - 高于业界水平的待遇，14 - 16 个月 （实习生 300/天）
 - 弹性工作，早上上班在 10:00 以后
-- 标配：Herman Miller Aeron Chair / Macbook Air / HHKB
-- 无限量零食、饮料
+- 标配：Herman Miller Aeron Chair / Macbook Pro with Retina / 机械键盘
+- 每月 Team Building
+- 免费读书计划
+- 长期培训课程
 
 ## 四、发展：
 
 - 中国最大的线上订餐系统
-- 超过 200+ 个城市覆盖，在迅速成长
+- 超过 300+ 个城市覆盖，在迅速成长
 
 
 联系：sofish@ele.me
